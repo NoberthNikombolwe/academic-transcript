@@ -1,0 +1,18 @@
+body {
+    padding-top: 20px;
+    background-color: white;
+}
+
+.header h6 {
+    font-size: 18px;
+    word-spacing: 6px;
+}
+
+.img {
+    position: absolute;
+}
+
+.img img {
+    max-width: 150px;
+    max-height: 150px;
+}
